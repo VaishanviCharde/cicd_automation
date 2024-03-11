@@ -1,1 +1,1 @@
-<?php print_r("Hello world new file"); ?>
+<?php print_r("Hello world new domain test"); ?>
