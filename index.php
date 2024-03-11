@@ -1,1 +1,1 @@
-<?php print_r("Hello guys welcome to my world"); ?>
+<?php print_r("Hello world"); ?>
