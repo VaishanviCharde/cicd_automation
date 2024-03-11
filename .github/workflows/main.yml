@@ -17,4 +17,4 @@ jobs:
         server: 148.72.26.110
         username: ${{ secrets.ftp_username }}
         password: ${{ secrets.ftp_password }}
-        server-dir: /demo.tissatech.in/
+        server-dir: /demo1.tissatech.in/
